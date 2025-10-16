@@ -73,7 +73,7 @@ I believe in combining **AI innovation** with **scientific research** to create 
 🌐 **LinkedIn:** [Sabbir Hossain Durjoy](https://www.linkedin.com/in/sabbir-hossain-durjoy-9732aa379/)  
 📚 **Google Scholar:** [View Profile](https://scholar.google.com/citations?user=kutVEGUAAAAJ&hl=en)  
 💼 **GitHub:** [github.com/sabbirhossaindurjoy](https://github.com/sabbirhossaindurjoy)  
-📧 **Email:** your.email@example.com  
+📧 **Email:** hossain15-4724@diu.edu.bd  
 
 ---
 
