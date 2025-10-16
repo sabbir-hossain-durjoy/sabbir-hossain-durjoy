@@ -52,15 +52,18 @@ My research focuses on leveraging **artificial intelligence** to address real-wo
 | **GitHub** | [github.com/sabbirhossaindurjoy](https://github.com/sabbirhossaindurjoy) |
 | **Email** | hossain15-4724@diu.edu.bd |
 
-```md
+---
+
+## 📊 GitHub Stats
+
 <!-- GitHub Readme Stats Card -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabbir-hossain-durjoy&show_icons=true&theme=dracula)](https://github.com/sabbir-hossain-durjoy)
 
 <!-- GitHub Streak / Contribution Calendar -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=sabbir-hossain-durjoy&theme=dark&border_radius=4.5)](https://git.io/streak-stats)
 
-<!-- Last Commit Badge (for a specific repo) -->
+<!-- Last Commit Badge -->
 ![Last Commit](https://img.shields.io/github/last-commit/sabbir-hossain-durjoy/REPO_NAME?style=flat)
 
 <!-- Profile Views / Visitor Count -->
-<img src="https://komarev.com/ghpvc/?username=sabbir-hossain-durjoy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+![Profile views](https://komarev.com/ghpvc/?username=sabbir-hossain-durjoy&label=Profile%20views&color=0e75b6&style=flat)
