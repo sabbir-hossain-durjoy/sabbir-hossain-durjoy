@@ -6,20 +6,16 @@
 ---
 
 ## 🧠 About Me
-I’m a passionate **Machine Learning and Deep Learning expert** with a strong research focus on **computer vision** and **medical image analysis**.  
-My journey began with agricultural datasets, developing intelligent models for plant disease detection, and has now evolved toward impactful healthcare research — particularly in **brain tumor detection using MRI**.  
-
-I believe in combining **AI innovation** with **scientific research** to create real-world solutions that enhance decision-making and improve lives.  
+I am Sabbir Hossain Durjoy, a passionate Machine Learning and Deep Learning researcher currently pursuing my B.Sc. in Computer Science and Engineering at Daffodil International University (DIU), Bangladesh. My academic journey and research focus revolve around applying artificial intelligence to solve real-world challenges in healthcare, computer vision, and smart agriculture.  
 
 ---
 
 ## 🔬 Research Interests
-- 🧩 **Deep Learning & Neural Networks**  
-- 🧠 **Medical Imaging (MRI, X-ray, CT)**  
-- 🌾 **Agricultural Disease Detection**  
-- 🧮 **Transfer Learning & Model Optimization**  
-- 🤝 **Federated and Split Learning Models**  
-- 📊 **Data Analysis & Visualization**
+Machine Learning
+Internet of Things
+Deep Learning
+Computer Vision
+Health Informatics
 
 ---
 
