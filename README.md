@@ -64,6 +64,3 @@ My research focuses on leveraging **artificial intelligence** to address real-wo
 
 <!-- Last Commit Badge -->
 ![Last Commit](https://img.shields.io/github/last-commit/sabbir-hossain-durjoy/REPO_NAME?style=flat)
-
-<!-- Profile Views / Visitor Count -->
-![Profile views](https://komarev.com/ghpvc/?username=sabbir-hossain-durjoy&label=Profile%20views&color=0e75b6&style=flat)
