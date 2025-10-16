@@ -52,11 +52,11 @@ My research focuses on leveraging **artificial intelligence** to address real-wo
 | **GitHub** | [github.com/sabbirhossaindurjoy](https://github.com/sabbirhossaindurjoy) |
 | **Email** | hossain15-4724@diu.edu.bd |
 
----
-
-## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabbir-hossain-durjoy&show_icons=true&theme=dracula)](https://github.com/sabbir-hossain-durjoy)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabbir-hossain-durjoy&theme=dark)
-
-![Last Commit](https://img.shields.io/github/last-commit/sabbir-hossain-durjoy/Deep-Learning?style=flat)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sabbir-hossain-durjoy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=sabbir-hossain-durjoy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sabbir-hossain-durjoy&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
