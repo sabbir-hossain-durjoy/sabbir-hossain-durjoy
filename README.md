@@ -23,38 +23,6 @@ I believe in combining **AI innovation** with **scientific research** to create 
 
 ---
 
-## 🚀 Projects & Research Highlights
-
-### 🩺 Brain Tumor Detection using MRI
-- Designed a **custom CNN-based model** for precise tumor identification.  
-- Focused on **model generalization** and **explainable AI** in medical imaging.  
-
-### 🥦 Cauliflower Leaf Disease Detection
-- Applied **Transfer Learning (VGG16, MobileNetV2)** achieving **90.20% accuracy**.  
-- Dataset included three classes: *Healthy*, *Insect Holes*, and *Black Rot*.  
-- Evaluated with accuracy, precision, recall, and F1-score.  
-
-### 🌿 Hog Plum Leaf Disease Detection
-- Enhanced model robustness through **data augmentation** (flip, rotate, crop, noise, brightness, contrast).  
-
-### 💻 Bangla++ Web Compiler
-- Developed a **Bangla-to-C++ compiler** capable of processing Bangla or Banglish code.  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Python (Flask) & C++ for compilation using g++  
-
-### 🔗 Split Learning Model in PyTorch
-- Implemented a **client–server split learning model** using **MobileNetV2** architecture.  
-- Aimed to ensure **data privacy** by distributing model components between devices.
-
----
-
-## 📄 Publication
-- **Data in Brief (2025)** – *Image dataset-based research paper accepted for publication.*
-
-📚 **Google Scholar:** [Sabbir Hossain Durjoy](https://scholar.google.com/citations?user=kutVEGUAAAAJ&hl=en)
-
----
-
 ## 🧰 Technical Expertise
 **Programming Languages:** Python, C++, SQL  
 **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
