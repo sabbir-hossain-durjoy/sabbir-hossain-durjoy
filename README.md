@@ -63,4 +63,4 @@ My research focuses on leveraging **artificial intelligence** to address real-wo
 [![GitHub Streak](https://streak-stats.demolab.com?user=sabbir-hossain-durjoy&theme=dark&border_radius=4.5)](https://git.io/streak-stats)
 
 <!-- Last Commit Badge -->
-![Last Commit](https://img.shields.io/github/last-commit/sabbir-hossain-durjoy/REPO_NAME?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/sabbir-hossain-durjoy/Deep-Learning?style=flat)
