@@ -6,30 +6,41 @@
 ---
 
 ## 🧠 About Me
-I am Sabbir Hossain Durjoy, a passionate Machine Learning and Deep Learning researcher currently pursuing my B.Sc. in Computer Science and Engineering at Daffodil International University (DIU), Bangladesh. My academic journey and research focus revolve around applying artificial intelligence to solve real-world challenges in healthcare, computer vision, and smart agriculture.  
+
+I am **Sabbir Hossain Durjoy**, a passionate **Machine Learning and Deep Learning researcher** currently pursuing my **B.Sc. in Computer Science and Engineering** at **Daffodil International University (DIU), Bangladesh**.  
+My research focuses on leveraging **artificial intelligence** to address real-world challenges in **healthcare**, **computer vision**, and **smart agriculture**, with the goal of developing intelligent, explainable, and impactful AI solutions.
+  
 
 ---
 
-## 🔬 Research Interests
-Machine Learning
-Internet of Things
-Deep Learning
-Computer Vision
-Health Informatics
+## 📚 Research Interests  
+- 🧠 Machine Learning & Deep Learning  
+- 🧩 Computer Vision & Medical Image Analysis  
+- 🌾 Smart Agriculture & IoT-based Systems  
+- 🔍 Explainable and Privacy-Preserving AI  
+- 🧮 Data Science & Model Optimization  
 
 ---
 
-## 🧰 Technical Expertise
-**Programming Languages:** Python, C++, SQL  
-**Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
-**Tools:** Jupyter, Google Colab, Flask, GitHub, VS Code  
-**Domains:** Computer Vision, Deep Learning, Data Science, AI Research, Model Deployment  
+## 💻 Programming Skills  
+- 💡 **C Programming Language**  
+- ⚙️ **C++**  
+- ☕ **Java**  
+- 🐍 **Python**  
+- 🌐 **JavaScript**  
+- 🎨 **HTML & CSS**  
+- 🤖 **Android Development**  
+- 🧱 **PHP**  
 
 ---
 
-## 🌍 Languages
-- **English** – Professional Working Proficiency  
-- **Bangla** – Native  
+## ⚙️ Technical Skills  
+- 🗂️ **Microsoft Office**  
+- 🔌 **TinkerCAD**  
+- 🌐 **CISCO Packet Tracer**  
+- 🧮 **MySQL**  
+- 📊 **MATLAB**  
+- 🔢 **TensorFlow** 
 
 ---
 
