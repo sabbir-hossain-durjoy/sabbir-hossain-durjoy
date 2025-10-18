@@ -33,16 +33,6 @@ My research focuses on leveraging **artificial intelligence** to address real-wo
 
 ---
 
-## ⚙️ Technical Skills  
-- 🗂️ **Microsoft Office**  
-- 🔌 **TinkerCAD**  
-- 🌐 **CISCO Packet Tracer**  
-- 🧮 **MySQL**  
-- 📊 **MATLAB**  
-- 🔢 **TensorFlow**  
-
----
-
 ## 🔗 Social & Stats
 
 | Platform | Link |
